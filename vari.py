@@ -7,7 +7,7 @@ def q2(n,m):
     print("With argument no return")
     s = n / 100 * m
     res = s + n
-    print("shirt ruppees:", n, "GST:", m, "Total cost:", res)
+    print("shirt ruppees:", n, "GST:", s, "Total cost:", res)
     print()
 
 def q3():
